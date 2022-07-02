@@ -14,6 +14,7 @@ Front end:
 
 Back end:
 * NodeJS
+* Express
 * PostgreSQL
 * Heroku
 
