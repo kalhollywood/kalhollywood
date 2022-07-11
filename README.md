@@ -7,20 +7,20 @@
 
 
 ## 🛠 Software used
-Front end:
+
 * HTML/CSS
 * Javascript
 * React
-
-Back end:
 * NodeJS
 * Express
 * PostgreSQL
 * Heroku
-
-Testing
 * Jest
 * Supertest
 * Cypress 
+* Netlify
+* Miro 
+* Figma
+* AWS
 
 
